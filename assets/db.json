@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Some random posts",
+      "userId": 23,
+      "id": "1"
+    },
+    {
+      "title": "Post2",
+      "body": "Some 2nd grp of random posts",
+      "userId": 23,
+      "id": "2"
+    },
+    {
+      "id": "1733753628068",
+      "title": "Dd",
+      "body": "Ddd",
+      "userId": "1733753628068"
+    },
+    {
+      "id": "1733753782208",
+      "title": "Egr",
+      "body": "Dce",
+      "userId": "1733753782208"
+    },
+    {
+      "id": "1733753793184",
+      "title": "Cd d",
+      "body": "D d ",
+      "userId": "1733753793184"
+    },
+    {
+      "id": "1733753871648",
+      "title": "D dv",
+      "body": "Svs",
+      "userId": "1733753871648"
+    }
+  ]
+}
